@@ -64,7 +64,7 @@
             // Counter
             // 
             this.Counter.AutoSize = true;
-            this.Counter.Location = new System.Drawing.Point(209, 133);
+            this.Counter.Location = new System.Drawing.Point(232, 126);
             this.Counter.Name = "Counter";
             this.Counter.Size = new System.Drawing.Size(53, 12);
             this.Counter.TabIndex = 5;
@@ -73,7 +73,7 @@
             // QuestionCount
             // 
             this.QuestionCount.AutoSize = true;
-            this.QuestionCount.Location = new System.Drawing.Point(209, 114);
+            this.QuestionCount.Location = new System.Drawing.Point(232, 114);
             this.QuestionCount.Name = "QuestionCount";
             this.QuestionCount.Size = new System.Drawing.Size(41, 12);
             this.QuestionCount.TabIndex = 6;
